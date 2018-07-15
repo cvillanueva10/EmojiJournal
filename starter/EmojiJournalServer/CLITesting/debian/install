@@ -1,0 +1,3 @@
+.build/							usr/src/CLITesting
+terraform/scripts/install.sh	usr/src/CLITesting
+terraform/scripts/start.sh		usr/src/CLITesting
